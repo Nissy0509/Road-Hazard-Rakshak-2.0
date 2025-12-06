@@ -1,0 +1,5 @@
+{
+  "name": "InfraGuard AI",
+  "description": "An intelligent road hazard detection and complaint automation system using Google Gemini.",
+  "requestFramePermissions": []
+}
